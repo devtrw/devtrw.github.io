@@ -337,6 +337,15 @@ footer a:hover {
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
 
+.projects-link {
+  margin-left: .25em;
+}
+
+.projects-link i {
+  padding-left: .5em;
+  padding-right: .33em;
+}
+
 /* #Media Queries
 ================================================== */
 
